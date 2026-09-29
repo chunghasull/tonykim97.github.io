@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://tonykim97.github.io/sitemap.xml
+Sitemap: https://chunghasull.github.io/tonykim97.github.io/sitemap.xml
