@@ -622,6 +622,15 @@ margin-bottom:40px}
 .cv .card{
 background-color:var(--global-card-bg-color);
 border:1px solid var(--global-divider-color)}
+.cv .card .list-group-item{
+background-color:inherit;
+border-color:var(--global-divider-color)}
+.cv .card .list-group-item .badge{
+color:var(--global-card-bg-color) !important;
+background-color:var(--global-theme-color) !important}
+.date-column{
+width:75px;
+transform:translateX(-15px) translateY(-5px)}
 .projects a{
 text-decoration:none}
 .projects a:hover .card-title{
