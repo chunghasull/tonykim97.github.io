@@ -1,5 +1,1 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+국립한국교통대학교 철도융합시스템학과 석사과정 김정원입니다. [지능형컴퓨팅연구실(ICL)](https://sites.google.com/view/iclab17)에서 semantic segmentation을 활용하여 철도 선로 영상인식 및 강화 유리 detection 등 여러 산업 현장 환경을 경험하고 영상 분할 네트워크를 중점적으로 공부하고 있습니다.
