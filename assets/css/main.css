@@ -222,8 +222,6 @@ border:1px solid var(--global-divider-color)}
 color:var(--global-text-color)}
 .navbar .dropdown-menu a:hover{
 color:var(--global-hover-color)}
-.navbar .dropdown-menu .dropdown-divider{
-border-top:1px solid var(--global-divider-color) !important}
 .dropdown-item{
 color:var(--global-text-color)}
 .dropdown-item:hover{
